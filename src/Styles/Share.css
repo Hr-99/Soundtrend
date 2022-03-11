@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Roboto',sans-serif;
+}
+
+.sh{
+    margin-top: 11.8%;
+    padding-top:10%;
+    background-color: white;
+}
+
+.s-title{
+    font-weight: bold;
+font-size: 38px;
+line-height: 156.4%;
+}
+.skii{
+    width: 624.84px;
+height: 547px;
+margin-left: 10%;
+}
+.snowm{
+   
+    width: 702px;
+height: 555px;
+margin-left: 41% !important;
+margin-top: 1%;
+filter: drop-shadow(0px 4px 79px rgba(47, 210, 113, 0.17));
+
+}
+.img-rw{
+    background-color: white !important;
+    margin-top: 5%;
+}

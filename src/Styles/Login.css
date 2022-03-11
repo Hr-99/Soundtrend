@@ -1,0 +1,79 @@
+.c-img {
+  width: 300px;
+  height: 600px;
+  z-index: 1;
+}
+body {
+  background-color: rgb(245, 252, 246) !important;
+  overflow-x: hidden;
+}
+
+.lc1 {
+  margin-left: 20% !important;
+}
+/* .l-c2{
+    margin-right: 10%;
+    border: 1px solid black;
+    padding: 2% 2%;
+    background-color: white;
+} */
+/* .l-co{
+    padding: 4% 0%;
+    background-color: ghostwhite;
+    height: auto;
+  
+} */
+.backgroundimage {
+  background-image: url("../Images/mobilebg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 65%;
+  height: 105%;
+
+  /* height: 60vh; */
+}
+.pstyle {
+  text-align: center;
+  padding-top: 100%;
+  font-size: 29px;
+}
+
+.pstyle1 {
+  text-align: center;
+  padding-top: 100%;
+  font-size: 154%;
+  margin-left: 4%;
+}
+.panelborder {
+  border: 1px solid #2fd271;
+  border-radius: 22px;
+  text-align: center;
+}
+.c1-t {
+  position: absolute;
+  margin-left: 32.5% !important;
+  margin-top: 18%;
+  font-size: 30px;
+  font-weight: 500;
+}
+.rw-1 {
+  /* height: 75vh; */
+}
+.Conta {
+  height: 100vh;
+  margin-top: 12%;
+}
+.button {
+  border-radius: 25px;
+  background: #2fd271;
+  border: 0px;
+  color: white;
+}
+/* .or{
+    background-color: white;
+    margin-top: -2.1%;
+    width: 80px;
+    margin-bottom: 0%;
+    margin-left: 12%;
+    position: absolute;
+} */

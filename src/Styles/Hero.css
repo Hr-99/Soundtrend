@@ -1,0 +1,57 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background-color: white !important;
+  overflow-x: hidden;
+}
+.h-c img {
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+}
+
+.rw {
+  padding-top: 2%;
+}
+.logo {
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 160.4%;
+  letter-spacing: 0.015em;
+}
+.log {
+  text-align: right;
+  margin-left: 40%;
+}
+.start {
+  margin-left: 0px;
+}
+.title {
+  margin-left: 6%;
+  margin-top: 12%;
+}
+.s-t {
+  font-weight: normal;
+  font-size: 23px;
+  line-height: 141.4%;
+}
+.t-h {
+  font-weight: bold;
+  font-size: 42px;
+  line-height: 136.4%;
+}
+
+.try-btn {
+  width: 305px;
+  height: 65px;
+  background: #2fd271;
+  box-shadow: 0px 13px 40px rgba(47, 210, 113, 0.45);
+  border-radius: 115px;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 131.4%;
+  color: white;
+}

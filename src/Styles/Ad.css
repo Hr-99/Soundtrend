@@ -1,0 +1,27 @@
+.ad-co{
+    margin-top: 28%;
+    background-color: #F5FFF9;
+    padding: 5% 0%;
+}
+.ad-h{
+    font-weight: bold;
+font-size: 45px;
+line-height: 156.4%;
+}
+.ad-s{
+    font-weight: 500;
+font-size: 25px;
+line-height: 156.4%;
+}
+
+.ad-b{
+    width: 305px;
+height: 65px;
+background: #2FD271;
+border-radius: 115px;
+font-weight: bold;
+margin-top: 2%;
+font-size: 28px;
+line-height: 53.9%;
+color: white;
+}

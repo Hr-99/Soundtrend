@@ -1,0 +1,121 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  font-family: "Roboto", sans-serif;
+}
+
+.card-body {
+  background-color: white;
+  height: 100vh;
+}
+.up {
+  background-color: #f6fffa !important;
+  padding: 5% 0%;
+}
+.up-title {
+  font-weight: 500;
+  font-size: 29px;
+  padding: 5% 0%;
+}
+
+.upload-file {
+  padding: 4% 0% !important;
+}
+.upload-file-text {
+  font-weight: 500;
+  font-size: 29px;
+  line-height: 152.4%;
+}
+.upload-file-subtext {
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 152.4%;
+}
+
+.card-upload-icons {
+  margin-left: 25%;
+  padding-top: 5%;
+  width: 214px;
+  height: 140px;
+  background: #ffffff;
+  box-shadow: 0px 35px 54px -11px rgba(47, 210, 113, 0.12);
+  border-radius: 20px;
+}
+.icon-text-footer {
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 152.4%;
+}
+
+.up-btn {
+  padding: 4% 0% 4% 0%;
+}
+.container-body {
+  border: 1px solid #2fd271;
+  box-sizing: border-box;
+  border-radius: 45px;
+}
+.logo-t {
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 160.4%;
+  margin-top: 5%;
+  transform: translateX(-50%);
+  letter-spacing: 0.015em;
+}
+.button1 {
+  border-radius: 25px;
+  background: #000000;
+  border: 0px;
+  color: white;
+}
+.sub {
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 152.4%;
+}
+.btn-text1 {
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 152.4%;
+}
+body {
+  background-color: #f8fffb !important ;
+}
+.btn-text2 {
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 152.4%;
+}
+.btn-text3 {
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 152.4%;
+}
+.ol {
+  border: 1px solid #2fd271;
+  border-radius: 45px;
+
+  margin-left: 4%;
+  margin-right: 4%;
+  padding-bottom: 4%;
+}
+
+.rw1 {
+  padding-top: 8% !important;
+}
+.rw2 {
+  margin-top: 5% !important;
+}
+.btn-1 {
+  box-shadow: 0px 35px 54px -11px rgba(47, 210, 113, 0.12);
+  border-radius: 20px;
+}
+.btn-2 {
+  box-shadow: 0px 35px 54px -11px rgba(47, 210, 113, 0.12);
+  border-radius: 20px;
+}
+.btn-3 {
+  box-shadow: 0px 35px 54px -11px rgba(47, 210, 113, 0.12);
+  border-radius: 20px;
+}

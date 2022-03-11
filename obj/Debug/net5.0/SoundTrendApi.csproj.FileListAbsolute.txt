@@ -1,0 +1,5 @@
+D:\Megha\Solutions\SoundTrend\obj\Debug\net5.0\SoundTrendApi.csproj.AssemblyReference.cache
+D:\Megha\Solutions\SoundTrend\obj\Debug\net5.0\SoundTrendApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Megha\Solutions\SoundTrend\obj\Debug\net5.0\SoundTrendApi.AssemblyInfoInputs.cache
+D:\Megha\Solutions\SoundTrend\obj\Debug\net5.0\SoundTrendApi.AssemblyInfo.cs
+D:\Megha\Solutions\SoundTrend\obj\Debug\net5.0\SoundTrendApi.csproj.CoreCompileInputs.cache

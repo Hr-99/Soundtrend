@@ -1,0 +1,52 @@
+.hash-cont{
+    
+   background-color: black !important;
+    margin-top: 25%;
+    z-index: -1;
+}
+
+
+.tag-img{
+    width: 605px;
+height: 576px;
+margin-top: 3%;
+z-index: 2;
+}
+
+
+.rw-im{
+    
+    width: 100%;
+    background-color: black;
+    z-index: 1;
+}
+
+.tag-t{
+   margin-top: 5%;
+   background-color: transparent !important;
+   z-index: 2;
+   color: white;
+   
+   
+}
+.tag-h{
+    font-weight: bold;
+font-size: 46px;
+line-height: 123.9%;
+margin-top: 15%;
+}
+.tag-s{
+    font-weight: normal;
+font-size: 16px;
+line-height: 157.9%;
+}
+.tag-btn{
+    width: 260px;
+height: 65px;
+background: #2FD271;
+border-radius: 115px;
+font-weight: bold;
+font-size: 26px;
+line-height: 53.9%;
+color: white;
+}
